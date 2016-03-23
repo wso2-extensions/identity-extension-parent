@@ -1263,6 +1263,11 @@
                 <artifactId>ehcache</artifactId>
                 <version>${ehcache.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.wso2.carbon</groupId>
+                <artifactId>org.wso2.carbon.xfer</artifactId>
+                <version>${xfer.version}</version>
+            </dependency>
         </dependencies>
 
     </dependencyManagement>
@@ -1485,8 +1490,9 @@
         <com.yubico.version>0.14.0</com.yubico.version>
         <encoder.wso2.version>1.2.0.wso2v1</encoder.wso2.version>
         <javax.xml.parsers.import.pkg.version>[0.0.0, 1.0.0)</javax.xml.parsers.import.pkg.version>
+        <xfer.import.pkg.version>[4.2.0,4.3.0)</xfer.import.pkg.version>
         <ehcache.version>1.5.0.wso2v3</ehcache.version>
-
+        <xfer.version>4.2.0</xfer.version>
         <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 
