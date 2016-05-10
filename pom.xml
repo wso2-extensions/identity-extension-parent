@@ -31,9 +31,9 @@
     </parent>
 
     <scm>
-        <url>https://github.com/wso2/identity-extension-parent.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/identity-extension-parent.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/identity-extension-parent.git</connection>
+        <url>https://github.com/wso2-extensions/identity-extension-parent.git</url>
+        <developerConnection>scm:git:https://github.com/wso2-extensions/identity-extension-parent.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2-extensions/identity-extension-parent.git</connection>
         <tag>HEAD</tag>
     </scm>
    
