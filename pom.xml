@@ -20,7 +20,7 @@
     <groupId>org.wso2.carbon.identity</groupId>
     <artifactId>identity-extension-parent</artifactId>
     <packaging>pom</packaging>
-    <version>5.0.9-SNAPSHOT</version>
+    <version>5.1.1-SNAPSHOT</version>
     <name>WSO2 Carbon - Platform Aggregator Pom</name>
     <url>http://wso2.org</url>
 
@@ -282,17 +282,6 @@
                 <groupId>com.google.gdata.wso2</groupId>
                 <artifactId>gdata-core</artifactId>
                 <version>${gdata-core.wso2.version}</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.igniterealtime.smack.wso2</groupId>
-                <artifactId>smack</artifactId>
-                <version>${smack.wso2.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.igniterealtime.smack.wso2</groupId>
-                <artifactId>smackx</artifactId>
-                <version>${smackx.wso2.version}</version>
             </dependency>
 
             <dependency>
@@ -1443,8 +1432,6 @@
         <balana.imp.pkg.version.range>[1.0.1,2.0.0)</balana.imp.pkg.version.range>
         <gdata-core.wso2.version>1.47.0.wso2v1</gdata-core.wso2.version>
         <gdata-core.imp.pkg.version.range>[1.47.0.wso2v1,2.0.0)</gdata-core.imp.pkg.version.range>
-        <smack.wso2.version>3.0.4.wso2v1</smack.wso2.version>
-        <smackx.wso2.version>3.0.4.wso2v1</smackx.wso2.version>
         <orbit.version.apacheds>1.5.7.wso2v4</orbit.version.apacheds>
         <version.apacheds.shared.ldap>0.9.18</version.apacheds.shared.ldap>
         <httpcomponents-httpclient.wso2.version>4.3.1.wso2v2</httpcomponents-httpclient.wso2.version>
