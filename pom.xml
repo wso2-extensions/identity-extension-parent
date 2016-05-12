@@ -847,8 +847,8 @@
 
         <!--Carbon identity version-->
 
-        <carbon.identity.version>5.1.0</carbon.identity.version>
-        <identity.framework.version>5.1.0</identity.framework.version>
+        <carbon.identity.version>5.1.1-SNAPSHOT</carbon.identity.version>
+        <identity.framework.version>5.1.1-SNAPSHOT</identity.framework.version>
         <carbon.identity.package.export.version>${identity.framework.version}</carbon.identity.package.export.version>
         <carbon.identity.package.import.version.range>[5.0.0, 6.0.0)</carbon.identity.package.import.version.range>
 
