@@ -840,7 +840,7 @@
         <carbon.analytics-common.version>5.0.6</carbon.analytics-common.version>
 
         <!--Carbon framework version-->
-        <identity.framework.version>5.5.0-SNAPSHOT</identity.framework.version>
+        <identity.framework.version>5.5.0-m2</identity.framework.version>
         <carbon.identity.package.export.version>${identity.framework.version}</carbon.identity.package.export.version>
         <carbon.identity.package.import.version.range>[5.0.0, 6.0.0)</carbon.identity.package.import.version.range>
 
