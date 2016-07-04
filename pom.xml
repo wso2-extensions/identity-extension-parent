@@ -20,7 +20,7 @@
     <groupId>org.wso2.carbon.identity</groupId>
     <artifactId>identity-extension-parent</artifactId>
     <packaging>pom</packaging>
-    <version>5.1.1-SNAPSHOT</version>
+    <version>5.1.1-m3</version>
     <name>WSO2 Carbon - Platform Aggregator Pom</name>
     <url>http://wso2.org</url>
 
@@ -34,7 +34,7 @@
         <url>https://github.com/wso2-extensions/identity-extension-parent.git</url>
         <developerConnection>scm:git:https://github.com/wso2-extensions/identity-extension-parent.git</developerConnection>
         <connection>scm:git:https://github.com/wso2-extensions/identity-extension-parent.git</connection>
-        <tag>HEAD</tag>
+        <tag>v5.1.1-m3</tag>
     </scm>
    
 
