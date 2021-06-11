@@ -809,7 +809,7 @@
         <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
 
         <!-- Misc -->
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <version.javax.servlet>3.0.0.v201112011016</version.javax.servlet>
         <carbon.p2.plugin.version>1.5.3</carbon.p2.plugin.version>
 
